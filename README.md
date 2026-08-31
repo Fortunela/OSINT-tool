@@ -1,2 +1,7 @@
 # OSINT-tool
-This will be an open sorce tool for linux. It will search puplic information on a ussr.
+
+-> This is an tool for linux.
+
+-> Maigret tool inspired this tool
+
+This tool is currently in development, so if you want to add feture or make it better please make sure to just mentions me.
